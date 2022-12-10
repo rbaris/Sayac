@@ -5,8 +5,8 @@ Bu masaüstü uygulaması siyah arkaplan üzerine anlık saat olarak tasarlanmı
 
 Projenin oluşturulduğu tarih: 06.11.2021
 
-## Very simple app Counter
-
+## Counter
+Counter is very simple application.
 If you need your computer to stay on but not distracted, this app based on the pomodoro tracker can come in handy.
 This desktop application is designed as instant clock on black background. You can close the application with the taskbar.
 
